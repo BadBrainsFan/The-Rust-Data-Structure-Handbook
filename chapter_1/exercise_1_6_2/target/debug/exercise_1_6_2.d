@@ -1,0 +1,1 @@
+/Users/iCanDigital/projects/rust_projects/The-Rust-Data-Structure-Handbook/chapter_1/exercise_1_6_2/target/debug/exercise_1_6_2: /Users/iCanDigital/projects/rust_projects/The-Rust-Data-Structure-Handbook/chapter_1/exercise_1_6_2/src/main.rs
